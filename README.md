@@ -1,5 +1,5 @@
 # ImageBlobLoG
-A python program that identifies blob in a image and return the coordinates of the center of the blob in a csv file.
+A python program that identifies blob in an image and return the coordinates of the center of the blob in a csv file.
 
 As of 05/07/2019, the lastest version is ImageBlobLoG v2.1, which have a queue and duplicated point removal system.
 
